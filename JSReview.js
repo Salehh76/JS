@@ -159,3 +159,4 @@ whiskers.speak();
 whiskers.calculateAge();
 whiskers.meow();
 console.log('04/01/2023');
+console.log('04/01/2024');
